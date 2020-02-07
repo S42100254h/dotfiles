@@ -1,8 +1,5 @@
 # GLOBAL
 export LSCOLORS=Dxfxcxdxbxegedabagacad
-export ZSH="/Users/s42100254h/.oh-my-zsh"
-ZSH_THEME="robbyrussell"
-plugins=(git)
 
 # Homebrew
 export PATH=/usr/local/bin:$PATH
