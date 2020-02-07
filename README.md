@@ -9,7 +9,7 @@ $ git clone git@github.com:S42100254h/dotfiles.git
 
 ### Second "execute shell script"
 ```
-$ ~/git/dotfiles/setup.sh
+$ sh ~/git/dotfiles/setup.sh
 ```
 
 That's all!!
