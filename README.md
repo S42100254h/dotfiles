@@ -4,7 +4,7 @@ All you should do is only 2 steps.
 ```
 $ mkdir ~/git
 $ cd ~/git
-$ git clone https://github.com/mc-chinju/dotfiles
+$ git clone git@github.com:S42100254h/dotfiles.git
 ```
 
 ### Second "execute shell script"
